@@ -1,4 +1,4 @@
-# Sentiment Analysis using Machine Learning and Streamlit
+# Movie Review Sentiment Analysis using Machine Learning and Streamlit
 
 ## Dataset
 IMDB Dataset of 50K Movie Reviews  
